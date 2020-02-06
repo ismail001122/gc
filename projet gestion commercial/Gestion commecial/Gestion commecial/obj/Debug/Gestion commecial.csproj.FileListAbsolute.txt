@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\bin\Debug\Gestion commecial.exe
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\bin\Debug\Gestion commecial.pdb
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion commecial.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion_commecial.Form1.resources
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion_commecial.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion commecial.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion commecial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion commecial.exe
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion commecial.pdb
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion_commecial.Form2.resources
+C:\Users\Lenovo\source\repos\Gestion commecial\Gestion commecial\obj\Debug\Gestion_commecial.menu.resources
